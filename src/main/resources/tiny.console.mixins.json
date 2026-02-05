@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.extclp.tiny.console.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "MixinConsoleThread",
+    "MixinMinecraftServer"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
