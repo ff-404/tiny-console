@@ -4,5 +4,8 @@
   "version": "${version}",
   "authors": [
     "extclp"
+  ],
+  "mixins": [
+    "tiny.console.mixins.json"
   ]
 }
